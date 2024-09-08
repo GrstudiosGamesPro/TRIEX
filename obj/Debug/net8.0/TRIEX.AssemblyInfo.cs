@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TRIEX")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9dd1df72dacaede524afbb67c02324251875e19")]
 [assembly: System.Reflection.AssemblyProductAttribute("TRIEX")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TRIEX")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
